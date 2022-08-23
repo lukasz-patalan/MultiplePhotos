@@ -2,7 +2,7 @@
 
 # Clone the repo:
 
-git clone
+git clone git@github.com:lukasz-patalan/MultiplePhotos.git
 
 # install dependecies:
 
